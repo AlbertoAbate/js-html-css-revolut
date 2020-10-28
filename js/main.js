@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
   var dropLinks = $(".with-dropdown > a");
-  var dropMenu = $(".with-dropdown > dropdown-menu");
+  var dropMenu = $(".with-dropdown > .dropdown-menu");
 
   dropLinks.click( function(){
 
